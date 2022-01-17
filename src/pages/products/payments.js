@@ -32,7 +32,7 @@ const Wrapper = styled.main`
   h1 {
     font-size: 2rem;
     color: var(--clr-primary-5);
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.4rem;
   }
   @media (min-width: 800px) {
     h1 {
